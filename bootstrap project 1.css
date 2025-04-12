@@ -1,0 +1,14 @@
+.bg-danger {
+    --bs-bg-opacity: 1;
+    background-color: rgb(254 67 85) !important;
+}
+.nav-link {
+    font-weight: 400;
+    color: rgb(255 255 255);
+}
+.carousel-item{
+    position: relative; 
+}
+.carousel-item img{
+    height: 50vh; /* Set a fixed height for all images */
+}
